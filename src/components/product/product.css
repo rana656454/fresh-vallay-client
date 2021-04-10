@@ -1,0 +1,40 @@
+
+.product-item{
+    text-align: center;
+    float: left;
+    background: #fff;
+    margin-top: 150px;
+    padding: 7%;
+    border-radius: 10px;
+    border-top: 2px solid tomato;
+    border-left: 2px solid tomato;
+    border-bottom: 2px solid DodgerBlue;
+    border-right: 2px solid DodgerBlue;
+    box-shadow: 0 13px 30px rgb(0 0 0 / 8%);
+    transition: all 1s;
+    }
+    .product-item:hover{
+        transform: scale(1.2);
+    }
+    .product-item img{
+        width: 180px;
+        height: 150px;
+        text-align: center;
+    }
+    .product-item h3{
+        margin-top: 10px;
+        margin-bottom: 25px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .product-item a{
+        text-decoration: none;
+        text-align: center;
+        padding: 10px 15px;
+        background: DodgerBlue;
+        color: #fbfbfb;
+        border-radius: 10px;
+        font-size: 14px;
+        font-family: Arial;
+        
+    }

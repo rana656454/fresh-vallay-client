@@ -1,0 +1,30 @@
+.menu-item ul{
+    float: right;
+}
+.menu-item ul li{
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    text-transform: uppercase;
+    margin: 0px 10px;
+}
+
+.logo-item h2{
+	
+    color:rgb(238, 85, 14);
+    font-size:20px;
+    font-weight: bold;   
+    text-shadow: 0 0 20px #ff005b;
+    text-transform: uppercase;
+}
+
+.nav-container{
+padding-top: 30px;
+background-color: rgba(0,0,0,0.02);
+}
+
+
+

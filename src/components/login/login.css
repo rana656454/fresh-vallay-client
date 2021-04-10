@@ -1,0 +1,85 @@
+.form1{
+    width:35%;
+    border: 2px solid black;
+    padding:2%;
+    margin: 0 auto;
+    
+}
+.login-main{
+background: url(../../images/login-bg3.jpg) no-repeat center center fixed;
+width: 100%;
+height: 100vh;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.inp1{
+margin-top: 10px;
+display: block;
+width: 100%;
+height: 40px;
+border-width: 0 0 2px 0;
+border-color: #3742fa;
+font-size: 18px;
+line-height: 26px;
+font-weight: 700;
+background: none;
+color:#3742fa;
+}
+.login-container{
+    text-align: center;
+    align-items: center;
+}
+.btn-icon{
+    width:35%;
+    height:50px;
+    background:none;
+    border:2px solid #3742fa;
+    border-radius:50px;
+    margin-top:10px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+       
+}
+
+.btn-style{
+    width: 100%;
+    height: 50px;
+    outline: none;
+    background: #3742fa;
+    margin-top: 15px;
+    border-radius: 5px;
+    border:none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.btn-style2{
+    width: 150px;
+    height: 50px;
+    outline: none;
+    background: none;
+    margin-top: 15px;
+    border:none;
+    color: #3742fa;
+}
+.google-icon{
+    font-size: 25px;
+}
+.form-header-text{
+    color: #3742fa;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.error-signup-message{
+    font-size: 17px;
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
